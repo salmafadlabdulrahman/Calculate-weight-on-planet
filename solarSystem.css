@@ -76,10 +76,6 @@ button {
   text-align: center;
 }
 
-/*.flexItemSecondaryImg {
-  display: flex;
-  justify-content: space-between;
-}*/
 
 .description {
     display: flex;
@@ -107,7 +103,7 @@ button {
   background-color: rgba(109, 109, 109, 0.5);
   width: 50%;
 }
-/*border: 1px solid red;*/
+
 
 .text {
     font-weight: 700;
